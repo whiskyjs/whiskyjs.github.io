@@ -1,0 +1,17 @@
+title:            "Странно с 1С-Битрикс"
+description:      ""
+url:              https://blog.segfault.pro
+share:            true
+
+links:
+  - name:         Посты
+    url:          /
+    external:     false
+  - name:         Обо мне
+    url:          /about
+    external:     false
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
